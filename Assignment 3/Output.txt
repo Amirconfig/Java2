@@ -1,0 +1,8 @@
+Area of Square with side: 3.5 is: 12.25
+Color all four sides
+Area of Circle with radius: 4.5 is: 63.61
+Area of Square with side: 6.0 is: 36.0
+Color all four sides
+Area of Rectangle with width of : 2.0 and height of 5.0 is: 10.0
+Area of Square with side: 5.5 is: 30.25
+Color all four sides

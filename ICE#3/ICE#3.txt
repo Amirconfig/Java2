@@ -1,0 +1,15 @@
+Modify the Course class of ICE#10.6 the modified class is called CourseNew.
+The modifications are as follows: 
+
+1. Modify the getStudents() method to return an array whose length is the same as the number of
+students in the course. (HINT: create a new array and copy array students to it.)
+
+2. The array size is fixed in ICE# 10.6. Modify the addStudent method to automatically increase the 
+array size if there is no room to add more students. (HINT: This is done by creating a new larger 
+array and copying the contents of the current array to it.)
+
+3. Implement the dropStudent method.
+
+4. Add a new method named clear() that removes all students from the course. 
+Test your program using the 
+Test your program using https://liveexample.pearsoncmg.com/test/Exercise10_09.txt

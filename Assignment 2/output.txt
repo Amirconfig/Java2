@@ -1,0 +1,13 @@
+accountNumber: 1001
+Account holder's Name: John P Smith
+AccountBalance: 17500.00
+Date Account Created: Sat Feb 04 12:30:22 EST 2023
+Account type: Checking
+
+accountNumber: 1002
+Account holder's Name: Janet E Holand
+AccountBalance: 13000.00
+Date Account Created: Sat Feb 04 12:30:22 EST 2023
+Account type: Savings
+
+Monthly interest amount of savings account is: 48.75

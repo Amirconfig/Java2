@@ -1,0 +1,12 @@
+Create a class Square with two data fields: side, and numberOfSquares.
+
+Develop the code for a driver class TestSquareArray which is an array composed of 5 Squares. 
+Initialize side of each element of the array with random values between 1 to 100 inclusive using Random class.
+Display the total area of the squares in the array squareArray and total number of rectangles. Display UML of the Square class.
+
+Methods:
+
+1.createSquareArray(): this method creates an array of 5 squares .
+2.printSquareArray(Square[] squaresArray), This method prints an array of squares (side and area in a two column table) and their
+accumulative toal area.
+3.sum(Square[] squareArray): this method adds areas of square in the squareArray.
